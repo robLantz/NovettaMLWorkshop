@@ -1,0 +1,47 @@
+Code,Topic,Name
+AG.LND.AGRI.ZS,Environment: Land use,Agricultural land (% of land area)
+AG.LND.EL5M.UR.ZS,Environment: Land use,Urban land area where elevation is below 5 meters (% of total land area)
+AG.LND.FRST.ZS,Environment: Land use,Forest area (% of land area)
+BG.GSR.NFSV.GD.ZS,"Economic Policy & Debt: Balance of payments: Current account: Goods, services & income",Trade in services (% of GDP)
+BM.GSR.TRVL.ZS,"Economic Policy & Debt: Balance of payments: Current account: Goods, services & income","Travel services (% of service imports, BoP)"
+BM.KLT.DINV.WD.GD.ZS,Economic Policy & Debt: Balance of payments: Capital & financial account,"Foreign direct investment, net outflows (% of GDP)"
+BN.GSR.MRCH.CD,Economic Policy & Debt: Balance of payments: Current account: Balances,"Net trade in goods (BoP, current US$)"
+BN.KLT.DINV.CD,Economic Policy & Debt: Balance of payments: Capital & financial account,"Foreign direct investment, net (BoP, current US$)"
+BX.TRF.PWKR.DT.GD.ZS,Economic Policy & Debt: Balance of payments: Current account: Transfers,"Personal remittances, received (% of GDP)"
+CM.MKT.LCAP.GD.ZS,Financial Sector: Capital markets,Market capitalization of listed domestic companies (% of GDP)
+CM.MKT.TRAD.GD.ZS,Financial Sector: Capital markets,"Stocks traded, total value (% of GDP)"
+DT.DOD.ALLC.ZS,Economic Policy & Debt: External debt: Debt ratios & other items,Concessional debt (% of total external debt)
+DT.DOD.DSTC.IR.ZS,Economic Policy & Debt: External debt: Debt ratios & other items,Short-term debt (% of total reserves)
+DT.DOD.PVLX.GN.ZS,Economic Policy & Debt: External debt: Debt ratios & other items,Present value of external debt (% of GNI)
+DT.INT.DECT.GN.ZS,Economic Policy & Debt: External debt: Debt ratios & other items,Interest payments on external debt (% of GNI)
+DT.ODA.ODAT.GI.ZS,Economic Policy & Debt: Official development assistance,Net ODA received (% of gross capital formation)
+EG.ELC.ACCS.ZS,Environment: Energy production & use,Access to electricity (% of population)
+EG.ELC.FOSL.ZS,Environment: Energy production & use,"Electricity production from oil, gas and coal sources (% of total)"
+EG.ELC.HYRO.ZS,Environment: Energy production & use,Electricity production from hydroelectric sources (% of total)
+EG.ELC.RNEW.ZS,Environment: Energy production & use,Renewable electricity output (% of total electricity output)
+EG.IMP.CONS.ZS,Environment: Energy production & use,"Energy imports, net (% of energy use)"
+EN.ATM.GHGO.ZG,Environment: Emissions,Other greenhouse gas emissions (% change from 1990)
+EN.POP.DNST,Environment: Density & urbanization,Population density (people per sq. km of land area)
+ER.H2O.FWTL.ZS,Environment: Freshwater,"Annual freshwater withdrawals, total (% of internal resources)"
+FB.ATM.TOTL.P5,Financial Sector: Access,"Automated teller machines (ATMs) (per 100,000 adults)"
+FB.CBK.BRWR.P3,Financial Sector: Access,"Borrowers from commercial banks (per 1,000 adults)"
+FB.CBK.DPTR.P3,Financial Sector: Access,"Depositors with commercial banks (per 1,000 adults)"
+GC.FIN.FRGN.GD.ZS,Public Sector: Government finance: Deficit & financing,"Net incurrence of liabilities, foreign (% of GDP)"
+GC.REV.SOCL.ZS,Public Sector: Government finance: Revenue,Social contributions (% of revenue)
+GC.TAX.EXPT.ZS,Public Sector: Government finance: Revenue,Taxes on exports (% of tax revenue)
+GC.TAX.GSRV.RV.ZS,Public Sector: Government finance: Revenue,Taxes on goods and services (% of revenue)
+IT.CEL.SETS.P2,Infrastructure: Communications,Mobile cellular subscriptions (per 100 people)
+IT.NET.USER.P2,Infrastructure: Communications,Internet users (per 100 people)
+MS.MIL.TOTL.TF.ZS,Public Sector: Defense & arms trade,Armed forces personnel (% of total labor force)
+MS.MIL.XPND.GD.ZS,Public Sector: Defense & arms trade,Military expenditure (% of GDP)
+NE.TRD.GNFS.ZS,Economic Policy & Debt: National accounts: Shares of GDP & other,Trade (% of GDP)
+NV.AGR.TOTL.ZS,Economic Policy & Debt: National accounts: Shares of GDP & other,"Agriculture, value added (% of GDP)"
+NV.IND.MANF.ZS,Economic Policy & Debt: National accounts: Shares of GDP & other,"Manufacturing, value added (% of GDP)"
+NV.IND.TOTL.ZS,Economic Policy & Debt: National accounts: Shares of GDP & other,"Industry, value added (% of GDP)"
+NV.SRV.TETC.ZS,Economic Policy & Debt: National accounts: Shares of GDP & other,"Services, etc., value added (% of GDP)"
+NY.GDP.MKTP.CD,Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators,GDP (current US$)
+NY.GDP.MKTP.KD,Economic Policy & Debt: National accounts: US$ at constant 2010 prices: Aggregate indicators,GDP (constant 2010 US$)
+NY.GDP.PCAP.CD,Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators,GDP per capita (current US$)
+per_allsp.cov_pop_tot,Social Protection & Labor: Performance,Coverage of social protection and labor programs (% of population)
+SE.ADT.1524.LT.ZS,Education: Outcomes,"Literacy rate, youth total (% of people ages 15-24)"
+SE.COM.DURS,Education: Outcomes,"Compulsory education, duration (years)"
